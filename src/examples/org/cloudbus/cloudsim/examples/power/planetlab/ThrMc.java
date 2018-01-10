@@ -32,7 +32,7 @@ public class ThrMc {
 	public static void main(String[] args) throws IOException {
 		boolean enableOutput = true;
 		boolean outputToFile = false;
-		String inputFolder = "/Users/zenara/Downloads/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/workload/planetlab";
+		String inputFolder = "/Users/zenara/Documents/SUSL/Year 4 Sem 2/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/workload/planetlab";
 		String outputFolder = "output";
 		String workload = "20110303"; // PlanetLab workload
 		String vmAllocationPolicy = "thr"; // Static Threshold (THR) VM allocation policy

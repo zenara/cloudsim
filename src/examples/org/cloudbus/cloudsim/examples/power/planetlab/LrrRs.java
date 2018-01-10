@@ -33,7 +33,7 @@ public class LrrRs {
 		boolean enableOutput = true;
 		boolean outputToFile = false;
 		//String inputFolder = LrrRs.class.getClassLoader().getResource("workload/planetlab").getPath();
-		String inputFolder = "/Users/zenara/Downloads/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/workload/planetlab";
+		String inputFolder = "/Users/zenara/Documents/SUSL/Year 4 Sem 2/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/workload/planetlab";
                 String outputFolder = "output";
 		String workload = "20110303"; // PlanetLab workload
 		String vmAllocationPolicy = "lrr"; // Local Regression Robust (LRR) VM allocation policy

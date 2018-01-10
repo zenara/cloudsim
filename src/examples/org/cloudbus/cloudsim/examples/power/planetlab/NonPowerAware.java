@@ -46,7 +46,7 @@ public class NonPowerAware {
 		String experimentName = "planetlab_npa";
 		String outputFolder = "output";
 		//String inputFolder = NonPowerAware.class.getClassLoader().getResource("workload/planetlab/20110303").getPath();
-                String inputFolder = "/Users/zenara/Downloads/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/workload/planetlab/20110303";
+                String inputFolder = "/Users/zenara/Documents/SUSL/Year 4 Sem 2/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/workload/planetlab/20110303";
 
                 Log.setDisabled(!Constants.ENABLE_OUTPUT);
 		Log.printLine("Starting " + experimentName);
