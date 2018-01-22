@@ -6,6 +6,7 @@
         <group>
             <file>file:/Users/zenara/Documents/SUSL/Year%204%20Sem%202/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/org/cloudbus/cloudsim/examples/power/planetlab/IqrMmt.java</file>
             <file>file:/Users/zenara/Documents/SUSL/Year%204%20Sem%202/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/org/cloudbus/cloudsim/examples/power/planetlab/MadMc_GA.java</file>
+            <file>file:/Users/zenara/Documents/SUSL/Year%204%20Sem%202/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/org/cloudbus/cloudsim/examples/power/planetlab/ThrMmt_GA.java</file>
             <file>file:/Users/zenara/Documents/SUSL/Year%204%20Sem%202/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/org/cloudbus/cloudsim/examples/power/planetlab/LrrMmt_GA.java</file>
             <file>file:/Users/zenara/Documents/SUSL/Year%204%20Sem%202/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/org/cloudbus/cloudsim/examples/power/planetlab/MadMmt_GA.java</file>
             <file>file:/Users/zenara/Documents/SUSL/Year%204%20Sem%202/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/org/cloudbus/cloudsim/power/PowerVmAllocationPolicyMigrationGA.java</file>
@@ -13,10 +14,12 @@
             <file>file:/Users/zenara/Documents/SUSL/Year%204%20Sem%202/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/org/cloudbus/cloudsim/examples/power/planetlab/MadRs_GA.java</file>
             <file>file:/Users/zenara/Documents/SUSL/Year%204%20Sem%202/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/org/cloudbus/cloudsim/power/Domination.java</file>
             <file>file:/Users/zenara/Documents/SUSL/Year%204%20Sem%202/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/org/cloudbus/cloudsim/examples/power/RunnerAbstract.java</file>
+            <file>file:/Users/zenara/Documents/SUSL/Year%204%20Sem%202/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/org/cloudbus/cloudsim/examples/power/planetlab/ThrRs_GA.java</file>
             <file>file:/Users/zenara/Documents/SUSL/Year%204%20Sem%202/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/org/cloudbus/cloudsim/power/GAInd.java</file>
             <file>file:/Users/zenara/Documents/SUSL/Year%204%20Sem%202/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/org/cloudbus/cloudsim/examples/power/planetlab/LrMc_GA.java</file>
             <file>file:/Users/zenara/Documents/SUSL/Year%204%20Sem%202/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/org/cloudbus/cloudsim/examples/power/planetlab/LrMmt_GA.java</file>
             <file>file:/Users/zenara/Documents/SUSL/Year%204%20Sem%202/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/org/cloudbus/cloudsim/examples/power/planetlab/LrRs_GA.java</file>
+            <file>file:/Users/zenara/Documents/SUSL/Year%204%20Sem%202/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/org/cloudbus/cloudsim/examples/power/planetlab/ThrMc_GA.java</file>
             <file>file:/Users/zenara/Documents/SUSL/Year%204%20Sem%202/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/org/cloudbus/cloudsim/examples/power/planetlab/IqrMc_GA.java</file>
             <file>file:/Users/zenara/Documents/SUSL/Year%204%20Sem%202/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/org/cloudbus/cloudsim/examples/power/planetlab/IqrRs_GA.java</file>
             <file>file:/Users/zenara/Documents/SUSL/Year%204%20Sem%202/Research/Cloudsim/cloudsim3.0/cloudsim3.0/src/examples/org/cloudbus/cloudsim/examples/power/planetlab/LrrRs_GA.java</file>
